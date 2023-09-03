@@ -1,7 +1,7 @@
 # Answer-Academy-Tech-test
 
 
-Cypress Automation Project - Yes Academy Digital Test
+Cypress Automation Project - Answer Academy Digital Test
 
 Overview:
 This code repository contains Cypress automation tests created for the Yes Academy digital test. The tests are written in JavaScript and were executed using Visual Studio Code as the code editor.
