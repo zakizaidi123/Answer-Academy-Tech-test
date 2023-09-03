@@ -1,6 +1,6 @@
 # Answer-Academy-Tech-test
 
-name : Syed zaki zaidi
+
 
 Cypress Automation Project - Answer Academy Digital Test
 
